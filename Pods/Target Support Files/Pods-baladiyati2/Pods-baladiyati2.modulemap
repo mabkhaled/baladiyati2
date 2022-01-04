@@ -1,6 +1,0 @@
-framework module Pods_baladiyati2 {
-  umbrella header "Pods-baladiyati2-umbrella.h"
-
-  export *
-  module * { export * }
-}
